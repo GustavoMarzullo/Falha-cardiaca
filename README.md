@@ -1,2 +1,2 @@
 # Falha-cardiaca-KNN
-Só pra eu guardar. 
+Comparando o KNN e o SVM. 
